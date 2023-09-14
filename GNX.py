@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 
-st.title('기넥신 성장 금액 계산기🖩')
+st.title('기넥신 성장 금액 계산기📈')
 
 
 num1 = st.number_input("☘️ 1주일 진료일수", value=4)
